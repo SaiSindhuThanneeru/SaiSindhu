@@ -1,0 +1,2 @@
+hi sindhu, welcome to hitachi vantara
+This is assignment this is appended text from fileoutputstream
